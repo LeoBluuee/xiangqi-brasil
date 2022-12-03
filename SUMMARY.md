@@ -1,4 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [Home](README.md)
+* [Regras](regras.md)
 
