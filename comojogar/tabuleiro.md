@@ -1,2 +1,0 @@
-# Peças e Tabuleiro
-

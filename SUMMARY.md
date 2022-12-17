@@ -3,7 +3,7 @@
 * [Home](README.md)
 * [História](origens.md)
 * [Como jogar](comojogar/README.md)
-  * [Tabuleiro](comojogar/tabuleiro.md)
+  * [Tabuleiro](comojogar/pecas-e-tabuleiro.md)
   * [Peças](comojogar/pecas.md)
   * [Regras](comojogar/regras.md)
   * [Sua primeira partida](comojogar/sua-primeira-partida.md)
