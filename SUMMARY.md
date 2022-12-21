@@ -6,6 +6,7 @@
   * [Tabuleiro](comojogar/pecas-e-tabuleiro.md)
   * [Peças](comojogar/pecas.md)
   * [Regras](comojogar/regras.md)
+  * [Xiangqi para jogadores de Xadrez](comojogar/xiangqi-para-jogadores-de-xadrez.md)
   * [Sua primeira partida](comojogar/sua-primeira-partida.md)
 * [Onde jogar](ondejogar/README.md)
   * [Sites](ondejogar/sites.md)
@@ -16,3 +17,4 @@
   * [Táticas e Estratégias](avancado/taticas-e-estrategias.md)
   * [Endgame](avancado/endgame.md)
 * [Informações Adicionais](informacoes-adicionais.md)
+* [Nota do Autor do Site](nota-do-autor-do-site.md)
