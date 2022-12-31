@@ -9,3 +9,7 @@ Criei esse site, usando uma ferramenta de fácil uso chamada Gitbook, para centr
 Não sou um bom jogador para ensinar alguém. A maior parte do conteúdo desse site foi traduzido de sites em inglês (sempre com autorização do autor original e link para a fonte). Qualquer dúvida ou necessidade de contato, me mande um email em:&#x20;
 
 Espero que a página Xiangqi Brasil te ajude de alguma forma. Muito obrigado por estar aqui.
+
+__
+
+_Leonardo Figueiras - leonardo-fig@live.com_

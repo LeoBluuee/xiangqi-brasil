@@ -13,6 +13,7 @@
   * [Aplicativos](ondejogar/aplicativos.md)
   * [Jogue aqui mesmo!](ondejogar/jogue-aqui-mesmo.md)
 * [Avançado](avancado/README.md)
+  * [Notação](avancado/notacao.md)
   * [Abertura](avancado/abertura.md)
   * [Táticas e Estratégias](avancado/taticas-e-estrategias.md)
   * [Endgame](avancado/endgame.md)
